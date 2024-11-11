@@ -1,3 +1,5 @@
 # student
 
-Author :- Rudra Sutariya 
+Author :- Vraj Sutariya
+Cource:- Ai & ml
+
